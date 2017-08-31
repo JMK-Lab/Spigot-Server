@@ -1,1 +1,1 @@
-Spigot Server
+## Spigot & Craftbukkit Server
